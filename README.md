@@ -1,2 +1,3 @@
-# CHATBOT-AI
-Developed a sophisticated React.js web application that leverages the Google Generative Language API to provide AI driven responses to user queries, enhancing user interaction with intelligent content generation.
+# Weather app
+Designed and implemented a fully responsive front-end using HTML, CSS, and React.js, ensuring seamless user
+experiences across a variety of devices and screen sizes.
